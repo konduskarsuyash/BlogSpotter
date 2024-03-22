@@ -1,0 +1,9 @@
+This is for registeration
+used flask b-crypt  for password encryptiona and decryption
+
+for login we used flask-login
+
+sqlalchemy (connecting issue)
+from project import app,db
+app.app_context().push()
+db.create_all()
