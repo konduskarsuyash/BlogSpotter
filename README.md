@@ -4,7 +4,7 @@ This is a Flask web application for managing blog posts. Users can add, remove, 
 
 ## Demo
 
-Check out the live demo: [Flask Blog Post](https://flask-blog-post-1.onrender.com)
+Check out the live demo: Flask Blog Post
 
 ## Features
 
@@ -28,14 +28,13 @@ Check out the live demo: [Flask Blog Post](https://flask-blog-post-1.onrender.co
    git clone https://github.com/konduskarsuyash/Flask_blog_post
    
 2. Install the required dependencies:
-```bash
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 
 3. Set up environment variables for configuration (e.g., database URI, secret key).
 
 ## Running the Application
 
 Run the application:
-```bash
+```bash 
 python run.py
-
