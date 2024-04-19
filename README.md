@@ -26,3 +26,11 @@ Check out the live demo: [Flask Blog Post](https://flask-blog-post-1.onrender.co
 1. Clone the repository:
    ```bash
    git clone https://github.com/konduskarsuyash/Flask_blog_post
+
+```bash
+pip install -r requirements.txt
+
+```bash
+python run.py
+
+
