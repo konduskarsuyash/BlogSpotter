@@ -29,8 +29,6 @@ Check out the live demo: [Flask Blog Post](https://flask-blog-post-1.onrender.co
 
 ```bash
 pip install -r requirements.txt
-
-```bash
 python run.py
 
 
