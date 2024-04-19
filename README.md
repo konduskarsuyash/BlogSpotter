@@ -26,9 +26,16 @@ Check out the live demo: [Flask Blog Post](https://flask-blog-post-1.onrender.co
 1. Clone the repository:
    ```bash
    git clone https://github.com/konduskarsuyash/Flask_blog_post
-
+   
+2. Install the required dependencies:
 ```bash
 pip install -r requirements.txt
-python run.py
 
+3. Set up environment variables for configuration (e.g., database URI, secret key).
+
+## Running the Application
+
+Run the application:
+```bash
+python run.py
 
